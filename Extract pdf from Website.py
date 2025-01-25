@@ -96,7 +96,7 @@ extract_url_pdf(input_url="https://cbic-gst.gov.in/central-tax-notifications.htm
 # https://cbic-gst.gov.in/central-tax-notifications.html
 
 
-# In[ ]:
+extract_url_pdf(input_url="https://juriscassation.cspj.ma/Decisions/RechercheDecisions.html")
 
 
 
